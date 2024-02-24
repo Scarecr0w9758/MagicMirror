@@ -2,9 +2,10 @@
   "name": "magicmirror",
   "version": "1.0.0",
   "description": "This is my FQW-work im creating a magic mirror using electrom + vue3 PERSONAL USe ONLY",
-  "main": "main.js",
+  "main": "src/app/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
