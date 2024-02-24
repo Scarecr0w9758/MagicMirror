@@ -1,0 +1,28 @@
+{
+  "name": "magicmirror",
+  "version": "1.0.0",
+  "description": "This is my FQW-work im creating a magic mirror using electrom + vue3 PERSONAL USe ONLY",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scarecr0w9758/magicMirrorVueFQW.git"
+  },
+  "keywords": [
+    "mirror",
+    "magicmirror",
+    "fqw",
+    "russia"
+  ],
+  "author": "Matvey Demin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scarecr0w9758/magicMirrorVueFQW/issues"
+  },
+  "homepage": "https://github.com/Scarecr0w9758/magicMirrorVueFQW#readme",
+  "devDependencies": {
+    "electron": "^29.0.1"
+  }
+}

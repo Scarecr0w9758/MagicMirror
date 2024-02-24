@@ -1,0 +1,38 @@
+components.d.ts
+auto-imports.d.ts
+
+.DS_Store
+node_modules
+/dist
+/storybook-static
+
+
+# local env files
+.env
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+/src/core/types/icons.d.ts
+
+.idea/**
+!.idea/jsLinters
+!.idea/jsLinters/eslint.xml
+!.idea/codeStyles
+!.idea/codeStyles/**
+.vscode/**
+!.vscode/extensions.json
+!.vscode/settings.json
+
+/src/core/types/swagger/generated
